@@ -18,7 +18,7 @@ package de.qaware.chronix.timeseries.dt
 import spock.lang.Specification
 
 /**
- * Unit test for the strace-point class
+ * Unit test for the string-point class
  */
 class StringPointTest extends Specification {
 

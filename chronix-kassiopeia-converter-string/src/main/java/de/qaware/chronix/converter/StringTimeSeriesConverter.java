@@ -25,7 +25,7 @@ import org.slf4j.LoggerFactory;
 import java.nio.charset.Charset;
 
 /**
- * The kassiopeia time series converter for the strace time series class
+ * The kassiopeia time series converter for the string-time-series class
  * based on de.qaware.chronix.converter.KassiopeiaSimpleConverter
  *
  * @author f.lautenschlager & m.jalowski

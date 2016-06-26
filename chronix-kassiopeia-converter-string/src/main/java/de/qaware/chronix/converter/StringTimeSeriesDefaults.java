@@ -25,7 +25,7 @@ import java.util.function.BinaryOperator;
 import java.util.function.Function;
 
 /**
- * Holds default group by and reduce functions for the kassiopeia-strace time series
+ * Holds default group by and reduce functions for the kassiopeia string-time-series
  *
  * @author f.lautenschlager & m.jalowski
  */

@@ -31,8 +31,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * The json serializer for the kassiopeia strace
- *time series
+ * The json serializer for the kassiopeia string-time-series
  *
  * @author f.lautenschlager & m.jalowski
  */
@@ -45,7 +44,7 @@ public class JsonKassiopeiaStringSerializer {
     private final Gson gson;
 
     /**
-     * Constructs a new JsonKassiopeiaSimpleSerializer.
+     * Constructs a new JsonKassiopeiaStringSerializer.
      */
     public JsonKassiopeiaStringSerializer() {
         GsonBuilder gsonBuilder = new GsonBuilder();

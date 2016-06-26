@@ -31,7 +31,7 @@ import java.util.Iterator;
 import java.util.List;
 
 /**
- * Class to easily convert the protocol buffer into Point<Long,Double>
+ * Class to easily convert the protocol buffer into StringPoint<Long,String>
  *
  * @author f.lautenschlager & m.jalowski
  */
